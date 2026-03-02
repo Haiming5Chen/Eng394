@@ -1,12 +1,4 @@
-<!-- _coverpage.md -->
+# Doc Five
 
-# ENGL 396 <small>Beta</small>
-
-> Software Documentation Rocks
-
-- Clear and concise
-- Well organized
-- Useful titles and opening text
-
-[Canvas](https://canvas.uw.edu/courses/1805373)
-[Get Started](#home-page)
+New users instruction for Bobafinder
+Scan over the map at the center of the screen to find boba tea icons around you (red dot). Choose a boba tea store and click navigate to go.
